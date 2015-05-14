@@ -1,0 +1,26 @@
+
+{
+   "errorMessage" : "",
+   "statusCode" : "0",
+   "productInventories" :
+      [
+         {
+            "pNumber" : 1,
+            "productName" : "P1",
+            "userUnique" : "wangyong20140910005302",
+            "wareHouseName" : "1号仓库"
+         },
+	  {
+            "pNumber" : 2,
+            "productName" : "P2",
+            "userUnique" : "wangyong20140910005302",
+            "wareHouseName" : "1号仓库"
+         },
+	  {
+            "pNumber" : 3,
+            "productName" : "P3",
+            "userUnique" : "wangyong20140910005302",
+            "wareHouseName" : "1号仓库"
+         }
+      ]
+}

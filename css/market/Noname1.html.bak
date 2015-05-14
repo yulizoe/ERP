@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <style rel="stylesheet">
+ .show-div{
+	 background:#000;
+	 width:200px;
+	 height:200px;
+ }
+ </style>
+ <body>
+  <div id="con" class="content">
+	<div id="showDiv" class="show-div">
+	</div>
+  </div>
+  <script type="text/javascript">
+      window.onload = function () {
+		  var oCon = document.getElementById("con");
+		  alert(oCon);
+		  oCon.click=function(){
+			var oShow = document.getElementById("showDiv");
+			alert(oShow.display);
+			oShow.display="none";
+		  };
+	  };
+  </script>
+ </body>
+</html>

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>test</title>
+
+<link rel="stylesheet" type="text/css" href="../../css/component.css" />
+<!--[if IE 6]>
+  <style type="text/css">
+     html{overflow:scroll;}
+  </style>
+<![endif]-->
+</head>
+
+<body class="pagewrap" id="pagewrap" bgcolor="#ff0">
+	<div class="container show">
+		<a href="#" class="pageload-link">点我开始比赛</a>
+	</div>
+	
+	
+	
+	<!-- /pageload-overlay -->
+	<div id="loader" class="pageload-overlay" data-opening="M 40,100 150,0 -65,0 z">
+		<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 80 60" preserveAspectRatio="none">
+			<path d="M 40,100 150,0 l 0,0 z"/>
+		</svg>
+	</div>
+	
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script src="../../js/snap.svg-min.js"></script>
+<script src="../../js/classie.js"></script>
+<script src="../../js/svgLoader.js"></script>
+<script>
+	(function() {
+		var pageWrap = document.getElementById( 'pagewrap' ),
+			pages = [].slice.call( pageWrap.querySelectorAll( 'div.container' ) ),
+			currentPage = 0,
+			triggerLoading = [].slice.call( pageWrap.querySelectorAll( 'a.pageload-link' ) ),
+			loader = new SVGLoader( document.getElementById( 'loader' ), { speedIn : 400, easingIn : mina.easeinout } );
+		
+		function start() {
+			triggerLoading.forEach( function( trigger ) {
+				trigger.addEventListener( 'click', function( ev ) {
+					//ev.preventDefault();
+					loader.show();
+					// after some time hide loader
+					classie.removeClass( pages[ currentPage ], 'show' );
+					
+					// update..
+					//currentPage = currentPage ? 0 : 1;
+					//classie.addClass( pages[ currentPage ], 'show' );
+					
+					//classie.addClass( pages[ currentPage ], 'show' );
+				} );
+			} );			
+		}
+		function end(){
+					loader.hide();
+					setTimeout( function(){
+						window.location="year_meeting.html";
+					},400 );
+		}
+		start();  //开始动画
+		$("#loader").click(function(){
+			end();  //点击结束动画
+		});
+	})();
+</script> 
+</body>
+</html>

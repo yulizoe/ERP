@@ -1,0 +1,19 @@
+{
+   "errorMessage" : "",
+   "statusCode" : 0,
+   "materialInventory" :
+      [
+         {
+            "mNumber" : 10,
+            "materialName" : "R1",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1ºÅ²Ö¿â"
+         },
+         {
+            "mNumber" : 5,
+            "materialName" : "R3",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1ºÅ²Ö¿â"
+         }
+      ]
+}

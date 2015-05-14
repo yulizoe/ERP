@@ -1,0 +1,94 @@
+{
+   
+   "developedProducts" :
+      [
+         {
+            "beginTime" : "1",
+            "endTime" : "1",
+            "productName" : "P1",
+            "userUnique" : "scott20141104170852"
+         },
+	  {
+            "beginTime" : "1",
+            "endTime" : "1",
+            "productName" : "P2",
+            "userUnique" : "scott20141104170852"
+         },
+	  {
+            "beginTime" : "1",
+            "endTime" : "1",
+            "productName" : "P3",
+            "userUnique" : "scott20141104170852"
+         },
+	  {
+            "beginTime" : "1",
+            "endTime" : "1",
+            "productName" : "P4",
+            "userUnique" : "scott20141104170852"
+         }
+      ],
+  "developingProducts" :
+      [
+       
+	 {
+            "beginTime" : "2",
+            "finishedPeriod" : "4",
+            "productName" : "P1",
+            "researchCost" : "2.0",
+            "researchPeriod" : "2",
+            "status" :"0",
+            "userUnique" : "scott20141104170852"
+         },
+	  {
+            "beginTime" : "2",
+            "finishedPeriod" : "4",
+            "productName" : "P2",
+            "researchCost" : "2.0",
+            "researchPeriod" : "2",
+            "status" :"0",
+            "userUnique" : "scott20141104170852"
+         },
+	
+	 {
+            "beginTime" : "2",
+            "finishedPeriod" : "4",
+            "productName" : "P3",
+            "researchCost" : "2.0",
+            "researchPeriod" : "2",
+            "status" :"1",
+            "userUnique" : "scott20141104170852"
+         },
+	
+	 {
+            "beginTime" : "2",
+            "finishedPeriod" : "4",
+            "productName" : "P4",
+            "researchCost" : "2.0",
+            "researchPeriod" : "2",
+            "status" :"0",
+            "userUnique" : "scott20141104170852"
+         }
+	
+      ],
+   "undevelopProducts" :
+      [
+         {
+            "productName" : "P3",
+            "researchCost" :" 2.0",
+            "researchPeriod" : "6",
+            "userUnique" : "scott20141104170852"
+         },
+         {
+            "productName" : "P4",
+            "researchCost" :"3.0",
+            "researchPeriod" : "6",
+            "userUnique" : "scott20141104170852"
+         },
+	  {
+            "productName" : "P1",
+            "researchCost" :" 2.0",
+            "researchPeriod" : "6",
+            "userUnique" : "scott20141104170852"
+         }
+      ]
+}

@@ -1,0 +1,129 @@
+	 body {
+		margin:0;
+		}
+		
+		.main {
+		height:1800px;
+		padding-top:90px;
+		text-align:center;
+		}
+		/*灰色大框*/
+		.fullbg {
+		background-color:gray;
+		left:0;
+		position:absolute;
+		top:0;
+		z-index:3;
+		filter:alpha(opacity=50);  /* IE私有属性，仅适用于IE*/
+		-moz-opacity:0.5; /* 支持一些老版本的Mozilla浏览器(火狐)*/
+		-khtml-opacity:0.5;/*支持一些老版本的Safari浏览器*/
+		opacity:0.5; /* 支持CSS3的浏览器（主流）,支持Firefox, Safari和 Opera.*/
+		}
+		/*弹框*/
+		.dialog {
+		background-color:#fff;
+		border:1px solid #355a86;
+		position:absolute;
+		position:fixed !important;
+		z-index:5;
+		display:none;
+    	font-family:"微软雅黑";
+	    font-size:14px;
+	    _margin-left:50%;
+		}
+		
+		
+		/*弹框标题栏*/
+		.dialog .title{
+		height:30px;
+		line-height:24px;
+		background:#12385f;
+		position:relative;
+		width:100%;/*ie6*/
+		}
+		
+		
+		
+		/*关闭符号*/	
+		.dialog .title .close {
+		text-align:right;
+		padding-top:3px;
+		height:20px;
+		width:20px;
+		float:left;
+		position:absolute;
+		right:5px;
+		cursor:pointer;
+		}
+
+		/*弹框标题*/
+	     .dialog .title .center_title{
+		color:#fff;
+		padding-top:3px;
+		float:left;
+		left:0;/*ie6*/
+		margin-left:0;
+		position:absolute;
+			}
+			
+	   /*table*/
+	    .box table{
+		margin: auto;
+		margin-top:15px;
+	    font-family:"微软雅黑";
+	    font-size:14px;
+	    font-weight:500;
+		color:black;
+			}
+		/*table tr*/	
+		.box table tr{
+	    text-align:right;	
+			}
+		.box table td{
+		color:#000;
+			}
+			
+			
+				
+		/*按钮控件的样式*/
+			
+		 .box table input{
+		 height:30px;
+		 width:225px;
+		 border:1px solid #CCC;  
+	     _font-size:19px;
+		 color:#000;
+		   }	
+			
+			
+		.box .selected_div{
+			height:30px;
+			width:225px;
+			border:1px solid #CCC;
+			vertical-align:middle;
+			}	
+	  	.box select{
+			height:30px;
+			width:225px;
+			border:0;
+			text-align:left;
+			_font-size:19px;
+			}
+			
+		.box select option{
+			 color:#000;
+			}
+		
+		.sub{
+			height:30px;
+			width:90px !important;
+			align:center;
+			background-color:#355a86;
+			border:0;
+            color:#FFF !important;
+			font-family:"微软雅黑";
+	        font-size:14px;
+			margin-top:10px;
+			cursor:pointer;
+			}
+		

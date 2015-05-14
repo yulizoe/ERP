@@ -1,0 +1,69 @@
+﻿
+
+{
+   "errorMessage" : "",
+   "statusCode" : 0,
+   "isoDevelopedList" : null,
+   "isoUndevelopList" :
+      [
+         {
+            "isoName" : "PRODUCT1400质量认证",
+            "maintainCost" :" 0.0",
+            "researchCost" : "0.5",
+            "researchPeriod" : "6",
+            "userUnique" : "wangyong20140910005302"
+         },
+	  {
+            "isoName" : "PRODUCT9000质量认证",
+            "maintainCost" : "0.0",
+            "researchCost" : "0.5",
+            "researchPeriod" : "6",
+            "userUnique" : "wangyong20140910005302"
+         }
+      ],
+   "isoDevelopingList" :
+      [
+         {
+	 "isoName" : "PRODUCT1400质量认证",
+            "beginTime" : "2",
+            "finishedPeriod" : "0",
+            "researchCost" : "0.5",
+	     "maintainCost" :" 0.0",
+            "researchPeriod" : "6",
+            "status" : "0",
+            "userUnique" : "wangyong20140910005302"
+         },
+        {
+	 "isoName" : "PRODUCT9000质量认证",
+            "beginTime" : "2",
+            "finishedPeriod" : "1",
+            "researchCost" : "0.5",
+	     "maintainCost" :" 0.0",
+            "researchPeriod" : "6",
+            "status" : "0",
+            "userUnique" : "wangyong20140910005302"
+         }
+      ],
+      "isoDevelopedList" :
+      [
+	      {
+	       "isoName" : "PRODUCT9000质量认证",
+	        "beginTime":1,
+		"endTime":5,
+		"lastStatus":1,
+		"maintainCost":0.0,
+		"status":"0",
+		"userUnique":"zdy20141005140057"
+	      },
+	      {
+	      "isoName" : "PRODUCT1400质量认证",
+	        "beginTime":1,
+		"endTime":5,
+		"lastStatus":0,
+		"maintainCost":0.0,
+		"status":"1",
+		"userUnique":"zdy20141005140057"
+	      }
+      
+      ]
+}

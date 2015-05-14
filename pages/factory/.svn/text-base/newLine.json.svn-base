@@ -1,0 +1,50 @@
+﻿[
+   {
+      "changeCost" : 0.0,
+      "changePeriod" : 0,
+      "delayTime" : 1,
+      "depreciation" : 0.25,
+      "mainCost" : 0.25,
+      "producePeriod" : 3,
+      "productLineType" : "手工生产线",
+      "setupPeriod" : 1,
+      "setupPeriodPrice" : 5.0,
+      "stumpCost" : 1.0
+   },
+   {
+      "changeCost" : 1.0,
+      "changePeriod" : 1,
+      "delayTime" : 1,
+      "depreciation" : 0.5,
+      "mainCost" : 0.25,
+      "producePeriod" : 2,
+      "productLineType" : "半自动生产线",
+      "setupPeriod" : 2,
+      "setupPeriodPrice" : 4.0,
+      "stumpCost" : 2.0
+   },
+   {
+      "changeCost" : 4.0,
+      "changePeriod" : 2,
+      "delayTime" : 1,
+      "depreciation" : 1.5,
+      "mainCost" : 0.25,
+      "producePeriod" : 1,
+      "productLineType" : "全自动生产线",
+      "setupPeriod" : 3,
+      "setupPeriodPrice" : 5.0,
+      "stumpCost" : 4.0
+   },
+   {
+      "changeCost" : 0.0,
+      "changePeriod" : 0,
+      "delayTime" : 1,
+      "depreciation" : 2.0,
+      "mainCost" : 0.25,
+      "producePeriod" : 1,
+      "productLineType" : "柔性生产线",
+      "setupPeriod" : 3,
+      "setupPeriodPrice" : 8.0,
+      "stumpCost" : 6.0
+   }
+]

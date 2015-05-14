@@ -1,0 +1,36 @@
+{
+   "errorMessage" : "",
+   "statusCode" : 0,
+   "materialInventory" :
+      [
+		 {
+            "mNumber" : 6,
+            "materialName" : "R1",
+            "userUnique" : "zdy20141005140057",
+            "wareHouseName" : "1号仓库"
+         }
+      ],
+   "materialbaisc" :
+      [
+         {
+            "delayTime" : 1,
+            "materialName" : "R1",
+            "price" : 1.0
+         },
+         {
+            "delayTime" : 1,
+            "materialName" : "R2",
+            "price" : 1.0
+         },
+         {
+            "delayTime" : 2,
+            "materialName" : "R3",
+            "price" : 1.0
+         },
+         {
+            "delayTime" : 2,
+            "materialName" : "R4",
+            "price" : 1.0
+         }
+      ]
+}

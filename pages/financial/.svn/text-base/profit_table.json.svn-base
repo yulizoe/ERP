@@ -1,0 +1,259 @@
+﻿{
+   "season" : 1,
+   "year" : 1,
+   "profitSheetList" :
+      [
+         {
+            "allValue" : "项目",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "数值",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "主营业务收入",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 2,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 2,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "减：主营业务成本",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "减：主营业务税金",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "主营业务利润",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "减：营业费用",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       1.75",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "减：管理费用",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       2.25",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "减：财务费用",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       1.00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "营业利润",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 9,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      -5.00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 9,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "其他业务收入",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "减：其他业务支出",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "利润总额",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      -5.00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "所得税",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        .00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "净利润",
+            "cols" : 1,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      -5.00",
+            "cols" : 2,
+            "itemValue" : null,
+            "oneItem" : null,
+            "period" : null,
+            "rows" : 14,
+            "userUnique" : null
+         }
+      ]
+}

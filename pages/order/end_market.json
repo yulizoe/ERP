@@ -1,0 +1,36 @@
+﻿
+[
+   {
+      "chooseID" : 121,
+      "chooseValue" : 13,
+      "groupName" : "t",
+      "marketName" : "本地市场",
+      "period" : 1,
+      "productName" : "P1",
+      "userUnique" : "12320141113012019"
+   },{
+      "chooseID" : 122,
+      "chooseValue" : 13,
+      "groupName" : "t",
+      "marketName" : "本地市场",
+      "period" : 1,
+      "productName" : "P2",
+      "userUnique" : "12320141113012019"
+   },{
+      "chooseID" : 123,
+      "chooseValue" : 13,
+      "groupName" : "t",
+      "marketName" : "国际市场",
+      "period" : 1,
+      "productName" : "P4",
+      "userUnique" : "12320141113012019"
+   },{
+      "chooseID" : 124,
+      "chooseValue" : 13,
+      "groupName" : "t",
+      "marketName" : "亚洲市场",
+      "period" : 1,
+      "productName" : "P1",
+      "userUnique" : "12320141113012019"
+   }
+]

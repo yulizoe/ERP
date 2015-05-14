@@ -1,0 +1,181 @@
+﻿<html>
+<head>
+	<title>我的网站</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+	 <style>
+      table {
+		  color:black;
+		  }
+		   table tr{
+		  color:black;
+		  }
+		   table th{
+		  color:black;
+		  }
+		  table tr td{
+		  color:black;
+		  }
+    </style>
+</head>
+<body>
+<table align=center background="IMG_0314.jpg" border=1 width="1500" height="1500">
+	<caption align="top">表格标题</caption>
+	<tr>
+	   <th colspan=3>我最喜欢的网站</th>
+	</tr>
+	<tr>
+		<th>网站名称</th>
+		<th>类型</th>
+		<th>主页域名</th>
+        <th>网站名称</th>
+		<th>类型</th>
+		<th>主页域名</th>
+        <th>网站名称</th>
+		
+       
+	</tr>
+	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+    	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>	<tr>
+		
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		<td>综合型</td>
+		<td><a href="http://www.163.com">www.163.com</a></td>
+        <td>网易</td>
+		
+	</tr>
+	</table>
+</body>
+</html>
+

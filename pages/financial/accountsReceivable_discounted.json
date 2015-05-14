@@ -1,0 +1,33 @@
+﻿{
+   "userUnique" : "12320141030172322",
+   "willReceiveList" :
+      [
+         {
+            "beginTime" : 1,
+            "endTime" : 19,
+            "money" : 100.0,
+            "note" : null,
+            "userUnique" : null,
+            "willReceiveDescription" : "测试1",
+            "willReceiveID" : 62
+         },
+         {
+            "beginTime" : 1,
+            "endTime" : 19,
+            "money" : 100.0,
+            "note" : null,
+            "userUnique" : null,
+            "willReceiveDescription" : "测试2",
+            "willReceiveID" : 64
+         },
+         {
+            "beginTime" : 1,
+            "endTime" : 19,
+            "money" : 100.0,
+            "note" : null,
+            "userUnique" : null,
+            "willReceiveDescription" : "测试3",
+            "willReceiveID" : 66
+         }
+      ]
+}

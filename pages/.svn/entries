@@ -1,0 +1,79 @@
+8
+
+dir
+449
+https://202.202.43.91/svn/erp_html/pages
+https://202.202.43.91/svn/erp_html
+
+
+
+2014-12-01T14:36:00.066125Z
+447
+yuli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+570ba89a-4bac-434b-a285-8323cf132a97
+
+1
+dir
+
+2
+dir
+
+Product_Development
+dir
+
+exitGame
+dir
+
+factory
+dir
+
+financial
+dir
+
+identification
+dir
+
+inventory_management
+dir
+
+loan
+dir
+
+market
+dir
+
+meeting
+dir
+
+order
+dir
+
+popup
+dir
+
+product
+dir
+
+purchase
+dir
+
+taxPayable
+dir
+
+timeManger
+dir
+

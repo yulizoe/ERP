@@ -1,0 +1,34 @@
+﻿<html>
+<head>
+<title>动态弹窗</title>
+<link rel="stylesheet" type="text/css" href="../../CSS/popup.css"/>
+     <script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+     <script type="text/javascript" src="../../js/popup.js" ></script>
+	      
+</head>
+
+  <body>
+
+		  <div class="main"><a href="#" class="main_a"> <input type="button" value="提交" /></a>
+                         <!--灰框-->
+				        <div class="fullbg"></div>
+                         <!--弹框开始-->
+                         <p>
+						<div class="dialog">
+							<!--蓝色标题栏开始-->
+							<div class="title">
+                               <div class="center_title">标题</div>
+                               <div class="close">
+                               <img src="../../images/close.gif"/></div>
+                            </div>
+                         <!--蓝色标题栏结束-->
+                         <!--弹框内容开始-->
+							<div>
+                           <div class="myDiv" ></div>
+                            </div>
+                             <!--弹框内容结束-->
+				       </div>
+                       <!--弹框结束--> 
+	   	</div> 
+  </body>
+</html>

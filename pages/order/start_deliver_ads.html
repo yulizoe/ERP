@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>start_deliver_ads</title>
+<link href="../../css/start_common.css" rel="stylesheet"/>
+<link href="../../css/start_table.css" rel="stylesheet"/>
+
+ </head>
+ <body id="deliver_ads">
+ <!--页面最大的div-->
+ <div class="content start_deliver_ads">
+	<!--包含白色标题和灰色小横条部分-->
+	<div class="trabecula">
+		<!--白色写标题的部分-->
+		<div class="trabecula-white">
+			<span><h2>广告投放&amp;订单</h2></span>
+		<!--白色写标题的部分结束-->
+		</div>
+        <!--灰色的小横条-->
+		<div class="gray-trabecula">
+			<!--小图标大小30px,33px-->
+			<span><img src="../../images/icon_map.gif" /></span>
+			<span><h4>市场管理</h4></span>
+			<span>&nbsp;&nbsp;>&nbsp;&nbsp;</span>
+			<span><h4>广告投放订单</h4></span>
+		 <!--灰色的小横条结束-->		
+		 </div>
+	<!--包含白色标题和灰色小横条部分结束-->
+     </div>
+	 
+     <!--设置全部主体内容的div-->
+     <div class="start_ads_content">
+       
+	   <!--设置进度条部分的div-->
+       <div class="ads_ul_div">
+         <ul class="start_ads_ul">
+                 <li class="li_out"><div>1.投放广告</div></li>
+		         <li class="li_out"><div>2.广告投放确认</div></li>
+		         <li class="li_out"><div>3.等待大厅</div></li>
+		         <li class="li_out"><div>4.订单选取</div></li>
+		         <li class="li_out"><div>5.结束选订单</div></li> 
+         </ul>
+       <!--进度条部分的div结束-->
+       </div>
+	   
+       <!--包含左边全部大内容的div-->
+       <div class="start_ads_content_left common_float_left">
+           <!--用于左边内容变换的div-->
+          
+          
+          
+           <!--用于左边进行内容变换的div结束-->   
+        <!--包含左边全部内容的div结束--> 
+       </div>
+	   
+       <!--包含右边内容的div开始-->
+       <div class="start_ads_content_right">
+           <p class="ads_right_top common_bgcolor common_color common" id="ads_div1" ><span>聊&nbsp;天&nbsp;室</span><img src="../../images/ico_right_news.gif" /></p>
+           <!--包含聊天室主题内容的div开始-->
+           <div id="ads_div2" class="ads_right_content">
+             <div class="ads_right_chartRoom ads_border common_margin">
+              <p><span class="ads_color1">陈嘉君</span>&nbsp;说：啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</p>
+              <p><span class="ads_color1">陈嘉君</span>&nbsp;说：啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</p>
+              <p><span class="ads_color1">陈嘉君</span>&nbsp;说：啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</p>
+              <p><span class="ads_color2">XXX</span>&nbsp;说：啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</p>
+              <p><span class="ads_color2">XXX</span>&nbsp;说：啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</p>
+              <p><span class="ads_color2">XXX</span>&nbsp;说：啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</p>
+             </div>
+             <div class="ads_right_send common_margin">
+               <textarea class="ads_border">啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊!</textarea>
+               <input type="button" name="send" value="发送" class="common_color common_bgcolor common_1" />          </div>
+           <!--包含聊天室主体内容的div结束-->
+           </div>
+        <!--包含右边全部内容div结束-->
+        </div>
+		
+   <!--包含页面主体内容的div结束-->
+   </div>
+   
+ <!--页面最大的div结束-->
+</div>
+
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/start_table.js"></script>
+<script type="text/javascript">
+$(".start_ads_content_left").load("start_selectOrder.html");
+//alert(1);
+changeMenu(0);
+</script>
+</body>
+</html>

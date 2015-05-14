@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>5</title>
+<link type="text/css" rel="stylesheet" href="../../css/base.css" />
+<link type="text/css" rel="stylesheet" href="../../css/content.css" />
+</head>
+
+<body>
+<div class="container_5">
+    <table class="header_tab common_bg common_1">
+     <tr>
+       <td class="td_1">组名：12356uiooo</td>
+       <td class="td_2">创建人：陈嘉君</td>
+       <td class="td_4">比赛持续年数：699</td>
+       <td class="td_5">每年包含周期数：699</td>
+     </tr>
+    </table>
+    <div class="left" id="page_5">
+        <table class="left_tab unique" cellspacing="8">
+          <tr class="left_tr1">
+          <td><p></p>
+              <img src="../../images/pic_meb1.jpg" />
+              <span>苏丹</span>
+          </td>
+          <td><p></p>
+              <img src="../../images/pic_meb2.jpg" />
+              <span>陈嘉君</span>
+          </td>
+          <td><p></p>
+              <img src="../../images/pic_meb3.jpg" />
+              <span>*********</span>
+          </td>
+          <td><p></p>
+              <img src="../../images/pic_meb4.jpg" />
+              <span>*********</span>
+          </td>
+          <td></td>
+          </tr>
+          <tr class="left_tr2">
+            <td></td><td></td><td></td><td></td><td></td>
+          </tr>
+          <tr class="left_tr3">
+            <td></td><td></td><td></td><td></td><td></td>
+          </tr>
+        </table>
+        <div class="left_infor">
+          <p class="left_infor_p1">用户名：苏丹</p>
+          <p>真实姓名：苏丹</p>
+          <p>专业：电子商务</p>
+          <p>班级：0361102</p>
+          <p>联系电话：1398*******</p>
+          <p>邮箱：4965****@qq.com</p>
+        </div>
+        <div class="footer">
+          <input type="button" value="退出小组" name="exit" class="btn2"/>
+        </div>
+    </div>
+    <div class="right">
+        <p class="right_p1 common common_1">聊&nbsp;&nbsp;天&nbsp;&nbsp;室</p>
+     <div class="right_div1 common_border">
+        <p><font class="name1">苏丹&nbsp;</font>说：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦！</p>
+        <p><font class="name1">苏丹&nbsp;</font>说：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦！</p>
+        <p><font class="name2">**********</font>说：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦！</p>
+     </div>
+         <p class="right_p2 common">
+          <input type="text" name="viewpoint" class="common_border p_btn1" value="啦啦啦啦啦啦啦啦" />
+          <input type="button" name="send" class=" p_btn2" />
+         </p>
+    </div>
+    </div>
+</div>
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/dynamicInfo.js"></script>
+</body>
+</html>

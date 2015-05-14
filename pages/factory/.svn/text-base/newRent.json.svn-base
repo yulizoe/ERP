@@ -1,0 +1,16 @@
+﻿{
+   "currentPeriod" : 1,		
+   "factoryType" :
+    [
+        "大厂房",
+        "小厂房"
+    ],
+   "payMode" : "按期支付建造资金",
+   "place" :
+    [
+        "本地市场",
+	    "国际市场"
+    ],
+	"needPeriod" : 1,
+	"rentCost" : 2
+}

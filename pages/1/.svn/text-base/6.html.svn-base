@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>6</title>
+<link type="text/css" rel="stylesheet" href="../../css/base.css" />
+<link type="text/css" rel="stylesheet" href="../../css/content.css" />
+</head>
+
+<body>
+<div class="container_5">
+    <table class="header_tab common_bg common_1">
+     <tr>
+       <td class="td_1"></td>
+       <td class="td_2"></td>
+       <td class="td_4"></td>
+       <td class="td_5"></td>
+     </tr>
+    </table>
+    <div class="left" id="page_6">
+        <table class="left_tab" cellspacing="8">
+          <tr class="left_tr1">
+          <td><p></p>
+          	  
+          </td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr class="left_tr2">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="left_tr3">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </table>
+        <div class="left_infor"></div>
+        <div class="footer_6">
+          <input type="button" name="start_game" value="开始比赛"  />
+          <input type="button" name="remove_member" value="踢出此人"  />
+          <input type="button" name="delete" value="删除小组" />
+        </div>
+    </div>
+    <div class="right">
+     <p class="right_p1 common common_1">聊&nbsp;&nbsp;天&nbsp;&nbsp;室</p>
+     <div class="right_div1 common_border">
+      <p><font class="name1">苏丹&nbsp;</font>说：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦！</p>
+      <p><font class="name1">苏丹&nbsp;</font>说：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦！</p>
+      <p><font class="name2">**********</font>说：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦！</p>
+     </div>
+     <p class="right_p2 common">
+        <input type="text" name="viewpoint" class="common_border p_btn1" value="啦啦啦啦啦啦啦啦" />
+        <input type="button" name="send" class=" p_btn2" />
+     </p>
+    </div>
+    </div>
+</div>
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/dynamicInfo.js"></script>
+</body>
+</html>

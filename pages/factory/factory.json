@@ -1,0 +1,204 @@
+﻿{
+"factoryMade":
+[
+   {
+      "beginTime" : 1,
+      "capacity" : 6,
+      "factoryId" : "USI001",
+      "factoryType" : "大厂房",
+      "finishTime" : 1,
+      "needPeriod" : 0,
+      "place" : "本地市场",
+      "productLineNumber" : 4,
+      "rentCost" : 0,
+      "sellPrice" : 40.0,
+      "status" : "已建成",
+      "productLines" :
+         [
+            {
+               "factoryId" : "USI001",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO001",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            },
+            {
+               "factoryId" : "USI001",
+               "factorytype" : null,
+               "finishPeriod" : 1,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO002",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "1",
+               "userUnique" : "12320141104100552"
+            },
+            {
+               "factoryId" : "USI001",
+               "factorytype" : null,
+               "finishPeriod" : 3,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO003",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "3",
+               "userUnique" : "12320141104100552"
+            },
+            {
+               "factoryId" : "USI001",
+               "factorytype" : null,
+               "finishPeriod" : 6,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO004",
+               "productLineType" : "半自动生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "6",
+               "userUnique" : "12320141104100552"
+            }
+         ]
+   }
+],
+
+"factoryRent":
+[
+   {
+      "beginTime" : 1,
+      "capacity" : 6,
+      "factoryId" : "REN001",
+      "factoryType" : "大厂房",
+      "finishTime" : 0,
+      "needPeriod" : 0,
+      "place" : "本地市场",
+      "productLineNumber" : 3,
+      "rentCost" : 2,
+      "sellPrice" : 0.0,
+      "status" : "租用中",
+      "productLines" :
+         [
+            {
+               "factoryId" : "REN001",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO005",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            },
+            {
+               "factoryId" : "REN001",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO006",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            },
+            {
+               "factoryId" : "REN001",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO007",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            }
+         ]
+   },
+   {
+      "beginTime" : 1,
+      "capacity" : 6,
+      "factoryId" : "REN002",
+      "factoryType" : "大厂房",
+      "finishTime" : 0,
+      "needPeriod" : 1,
+      "place" : "本地市场",
+      "productLineNumber" : 2,
+      "rentCost" : 2,
+      "sellPrice" : 0.0,
+      "status" : "租用中",
+      "productLines" :
+         [
+            {
+               "factoryId" : "REN002",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO008",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            },
+            {
+               "factoryId" : "REN002",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO009",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            }
+         ]
+   }
+],
+"factoryMaking":
+[
+   {
+      "beginTime" : 1,
+      "capacity" : 6,
+      "factoryId" : "MAK001",
+      "factoryType" : "大厂房",
+      "finishTime" : 0,
+      "finishedPeriod" : 0,
+      "makePeriod" : 4,
+      "needPeriod" : 0,
+      "payMode" : "按期支付建造资金",
+      "place" : "本地市场",
+      "productLineNumber" : 0,
+      "rentCost" : 0,
+      "sellDescription" : null,
+      "sellPrice" : 0.0,
+      "status" : "修建中",
+      "userUnique" : "12320141104100552"
+   },
+   {
+      "beginTime" : 1,
+      "capacity" : 4,
+      "factoryId" : "MAK002",
+      "factoryType" : "小厂房",
+      "finishTime" : 0,
+      "finishedPeriod" : 0,
+      "makePeriod" : 3,
+      "needPeriod" : 0,
+      "payMode" : "按期支付建造资金",
+      "place" : "区域市场",
+      "productLineNumber" : 0,
+      "rentCost" : 0,
+      "sellDescription" : null,
+      "sellPrice" : 0.0,
+      "status" : "修建中",
+      "userUnique" : "12320141104100552"
+   }
+]
+}

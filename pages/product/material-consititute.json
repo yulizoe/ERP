@@ -1,0 +1,105 @@
+﻿{
+   "errorMessage" : "",
+   "statusCode" : 0,
+   "materialInventory" :
+      [
+         {
+            "mNumber" : "10",
+            "materialName" : "R1",
+            "userUnique" : "mahaoran20140414202304"
+         },
+         {
+            "mNumber" : "5",
+            "materialName" : "R2",
+            "userUnique" : "mahaoran20140414202304"
+         }
+      ],
+   "productDetailBasic" :
+      [
+         {
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "productName" : "P1"
+         },
+	  {
+            "mNumber" : 1,
+            "materialName" : "R2",
+            "productName" : "P1"
+         },
+	  {
+            "mNumber" : 1,
+            "materialName" : "R3",
+            "productName" : "P1"
+         },
+	  {
+            "mNumber" : 1,
+            "materialName" : "R4",
+            "productName" : "P1"
+         },
+         {
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "productName" : "P2"
+         },
+         {
+            "mNumber" : 1,
+            "materialName" : "R2",
+            "productName" : "P2"
+         },
+	 {
+            "mNumber" : 1,
+            "materialName" : "R3",
+            "productName" : "P2"
+         },
+	  {
+            "mNumber" : 1,
+            "materialName" : "R4",
+            "productName" : "P2"
+         },
+         {
+            "mNumber" : 2,
+            "materialName" : "R1",
+            "productName" : "P3"
+         },
+	  {
+            "mNumber" : 2,
+            "materialName" : "R2",
+            "productName" : "P3"
+         },
+         {
+            "mNumber" : 1,
+            "materialName" : "R3",
+            "productName" : "P3"
+         },
+	  {
+            "mNumber" : 1,
+            "materialName" : "R4",
+            "productName" : "P3"
+         },
+         {
+            "mNumber" : 2,
+            "materialName" : "R2",
+            "productName" : "P4"
+         },
+         {
+            "mNumber" : 1,
+            "materialName" : "R3",
+            "productName" : "P4"
+         },
+         {
+            "mNumber" : 1,
+            "materialName" : "R4",
+            "productName" : "P4"
+         }
+	 ,
+         {
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "productName" : "P4"
+         }
+      ],
+   "P1成本价" : "4.0",
+   "P4成本价" : "3.0",
+   "P2成本价" : "2.0",
+   "P3成本价" : "1.0"
+}

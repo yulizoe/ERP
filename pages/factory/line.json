@@ -1,0 +1,12 @@
+﻿{
+               "factoryId" : "USI001",
+               "factorytype" : null,
+               "finishPeriod" : 0,
+               "productFinishPeriod" : 0,
+               "productLineId" : "PRO001",
+               "productLineType" : "手工生产线",
+               "productName" : "P1",
+               "sellPrice" : 0.0,
+               "status" : "0",
+               "userUnique" : "12320141104100552"
+            }

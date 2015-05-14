@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../../css/start_common.css" rel="stylesheet" />
+<title>下拉框</title>
+</head>
+
+<body>
+<!--请大家用这段代码替代自己的select框中，
+	<span>本地/区域/国内</span>中的是默认显示的值，
+    <li>中的是选项，请记得引入头部的<link href="../../css/start_common.css" rel="stylesheet" />
+    和底部的<script type="text/javascript" src="../../js/checkbox.js"></script>-->
+<div class="select-box">
+  <div id="select-div" class="select-option">
+    <div style=" background:url(../../images/drown.gif) right no-repeat;" id="checkb" class="check-box"> <span>本地/区域/国内</span> </div>
+    <ul>
+      <li value="nation"><a>本地市场</a></li>
+      <li value="region">区域市场</li>
+      <li value="china">国内市场</li>
+      <li value="asia">亚洲市场</li>
+      <li value="internation">国际市场</li>
+    </ul>
+  </div>
+  <form id="mysubmit" style="float:left;">
+    <input class="checkIn" type="submit" name="input" value="查询"/>
+  </form>
+</div>
+<script type="text/javascript" src="../../js/checkbox.js"></script>
+</body>
+</html>

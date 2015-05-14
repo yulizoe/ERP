@@ -1,0 +1,64 @@
+﻿<html>
+<head>
+<title>租赁厂房</title>
+<link rel="stylesheet" type="text/css" href="../../CSS/static-popup.css"/>
+   
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/popup.js" ></script>
+</head>
+  <body>
+<div style="width:546px; height:210px;">		  
+<form action="" method="post">
+<div class="box">
+ <table style="width:500px;height:200px;">
+      <!--租赁厂房的类型-->
+    <tr>
+        <td>租赁厂房的类型：</td>
+        <td align="left">
+        <div class="selected_div">
+          <select name="rent_type"  >
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
+           </select>
+         </div>
+        </td>
+    </tr>
+    <!--厂房的地址-->
+    <tr>
+      <td>厂房的地址：</td>
+      <td align="left">
+       <div class="selected_div">
+       <select name="address" >
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+      </select>
+      </div>
+      </td>
+    </tr>
+    <!--每期需缴纳的租金-->
+    <tr>
+        <td>每期需缴纳的租金：</td>
+        <td align="left">
+           <input type="text" name="rent_cost" >
+        </td>
+    </tr>
+    
+      <!--需等待多少周期该租赁厂房才可以使用-->
+    <tr>
+        <td>需等待多少周期该租赁厂房才可以使用：</td>
+        <td align="left">
+          <input type="text" name="cycle">
+        </td>
+    </tr>
+    
+    <!--确认租赁-->
+    <tr><td colspan="2" align="center" ><input type="submit" name="submit" class="sub" value="确认租赁"/></td></tr>
+ </table>  
+</div>
+<!--box结束-->
+</form>
+</div>         
+  </body>
+</html>

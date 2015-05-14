@@ -1,0 +1,23 @@
+﻿{
+   "changeCost" : 0.0,
+   "changePeriod" : 0,
+   "delayTime" : 1,
+   "depreciation" : 0.25,
+   "factoryId" : "USI001",
+   "factorytype" : null,
+   "finishPeriod" : 0,
+   "intstatus" : 0,
+   "mainCost" : 0.25,
+   "producePeriod" : 3,
+   "productFinishPeriod" : 2,
+   "productLineId" : "PRO003",
+   "productLineType" : "手工生产线",
+   "productName" : "P1",
+   "rem" : "在制产品已经完成的生产周期数",
+   "sellPrice" : 3.0,
+   "setupPeriod" : 1,
+   "setupPeriodPrice" : 5.0,
+   "status" : 0,
+   "stumpCost" : 1.0,
+   "userUnique" : null
+}

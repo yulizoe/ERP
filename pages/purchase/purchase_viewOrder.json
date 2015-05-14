@@ -1,0 +1,58 @@
+{
+"totalAccount":40,
+"pages":5,
+"pageIndex":1,
+"errorMessage" : "",
+"statusCode" : 0,
+"materialOrders" :
+      [
+         {
+            "endTime" : "18",
+            "happenTime" : "17",
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "orderId" : "ORD008",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1号仓库"
+         }, {
+            "endTime" : "18",
+            "happenTime" : "17",
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "orderId" : "ORD008",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1号仓库"
+         }, {
+            "endTime" : "18",
+            "happenTime" : "17",
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "orderId" : "ORD008",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1号仓库"
+         }, {
+            "endTime" : "18",
+            "happenTime" : "17",
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "orderId" : "ORD008",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1号仓库"
+         }, {
+            "endTime" : "18",
+            "happenTime" : "17",
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "orderId" : "ORD008",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1号仓库"
+         }, {
+            "endTime" : "18",
+            "happenTime" : "17",
+            "mNumber" : 1,
+            "materialName" : "R1",
+            "orderId" : "ORD008",
+            "userUnique" : "mahaoran20140414202304",
+            "wareHouseName" : "1号仓库"
+         }]
+}

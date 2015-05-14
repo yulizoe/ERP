@@ -1,0 +1,797 @@
+﻿{
+   "balanceSheetList" :
+      [
+         {
+            "allValue" : "资产",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "期初数",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "期末数",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "负债和所有者权益",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "期初数",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "期末数",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 1,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "流动资产：",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 2,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "负债：",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 2,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "现金",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       20.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       22.25",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "长期负债",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       40.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       45.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 3,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "应收账款",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       15.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       15.00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "短期负债",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 4,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "在制品",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        4.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        2.00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "应付账款",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 5,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "成品",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        2.00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "应交税金",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 6,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "原料",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "一年内到期的长期负债",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 7,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "流动资产合计",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      39.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      41.25",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "负债合计",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      40.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      45.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 8,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "固定资产：",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 9,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "所有者权益：",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 9,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "土地和建筑",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       40.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       40.00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "股东资本",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       45.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       45.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 10,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "机器与设备",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       13.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       13.00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "利润留存",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        4.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        7.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 11,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "在建工程",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "净利润",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "        3.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       -5.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 12,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "累计折旧",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "         .00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "       -2.25",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "所有者权益合计",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      52.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      47.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 13,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "固定资产合计",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      53.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      50.75",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "负债和所有者权益总计",
+            "beginValue" : 0.0,
+            "cols" : 4,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      92.00",
+            "beginValue" : 0.0,
+            "cols" : 5,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      92.00",
+            "beginValue" : 0.0,
+            "cols" : 6,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 14,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "资产总计",
+            "beginValue" : 0.0,
+            "cols" : 1,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 15,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      92.00",
+            "beginValue" : 0.0,
+            "cols" : 2,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 15,
+            "userUnique" : null
+         },
+         {
+            "allValue" : "      92.00",
+            "beginValue" : 0.0,
+            "cols" : 3,
+            "endValue" : 0.0,
+            "oneItem" : null,
+            "period" : 0,
+            "rows" : 15,
+            "userUnique" : null
+         }
+      ],
+   "season" : 1,
+   "year" : 1
+}

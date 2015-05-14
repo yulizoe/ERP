@@ -1,0 +1,237 @@
+﻿{
+   "recordCount" : 23,
+   "pageCount" : 3,
+   "accountList" :
+      [
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 61,
+                     "calValue" : 5.0,
+                     "item" : "长期贷款",
+                     "itemType" : "贷",
+                     "money" : 5.0,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 61,
+                     "calValue" : 5.0,
+                     "item" : "现金",
+                     "itemType" : "借",
+                     "money" : 5.0,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 61,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 62,
+                     "calValue" : 5.0,
+                     "item" : "短期贷款",
+                     "itemType" : "贷",
+                     "money" : 5.0,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 62,
+                     "calValue" : 5.0,
+                     "item" : "现金",
+                     "itemType" : "借",
+                     "money" : 5.0,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 62,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 63,
+                     "calValue" : 5.0,
+                     "item" : "短期贷款",
+                     "itemType" : "贷",
+                     "money" : 5.0,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 63,
+                     "calValue" : 5.0,
+                     "item" : "现金",
+                     "itemType" : "借",
+                     "money" : 5.0,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 63,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 81,
+                     "calValue" : -0.25,
+                     "item" : "现金",
+                     "itemType" : "贷",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 81,
+                     "calValue" : 0.25,
+                     "item" : "营业费用",
+                     "itemType" : "借",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 81,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 82,
+                     "calValue" : -0.5,
+                     "item" : "现金",
+                     "itemType" : "贷",
+                     "money" : 0.5,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 82,
+                     "calValue" : 0.5,
+                     "item" : "营业费用",
+                     "itemType" : "借",
+                     "money" : 0.5,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 82,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 83,
+                     "calValue" : -1.0,
+                     "item" : "累计折旧",
+                     "itemType" : "贷",
+                     "money" : 1.0,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 83,
+                     "calValue" : 1.0,
+                     "item" : "管理费用",
+                     "itemType" : "借",
+                     "money" : 1.0,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 83,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 84,
+                     "calValue" : -0.25,
+                     "item" : "现金",
+                     "itemType" : "贷",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 84,
+                     "calValue" : 0.25,
+                     "item" : "营业费用",
+                     "itemType" : "借",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 84,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 85,
+                     "calValue" : -0.25,
+                     "item" : "现金",
+                     "itemType" : "贷",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 85,
+                     "calValue" : 0.25,
+                     "item" : "营业费用",
+                     "itemType" : "借",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 85,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         },
+         {
+            "accountDetailList" :
+               [
+                  {
+                     "accountId" : 86,
+                     "calValue" : -0.25,
+                     "item" : "现金",
+                     "itemType" : "贷",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  },
+                  {
+                     "accountId" : 86,
+                     "calValue" : 0.25,
+                     "item" : "营业费用",
+                     "itemType" : "借",
+                     "money" : 0.25,
+                     "userUnique" : "12320141030172322"
+                  }
+               ],
+            "accountID" : 86,
+            "description" : null,
+            "happenTime" : 1,
+            "userUnique" : "12320141030172322"
+         }
+      ],
+   "maxPeriod" : 3,
+   "minPeriod" : 1,
+   "minYear" : 1,
+   "maxYear" : 3,
+   "pageIndex" : 1
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css"rel="stylesheet" href="../../css/base.css" />
+<link type="text/css" rel="stylesheet" href="../../css/content.css" />
+<title>2</title>
+</head>
+
+<body>
+<div class="container container_2">
+  <table>
+   <tr><td class="space" style="word-spacing:3px" width="70px">用 户 名</td><td width="20px">：</td><td class="td_3"><input type="text" name="userID" value="sd"/><span></span></td></tr>
+   <tr><td>真实姓名</td><td>：</td><td class="td_3"><input type="text" name="name" value="苏丹" class="td_3" /><span></span></td></tr>
+   <tr><td class="space">学 号</td><td>：</td>
+       <td class="td_3"><input type="text" name="studentID" value="2011211429" /><span></span></td>
+   </tr>
+   <tr><td class="space">专 业</td><td>：</td>
+       <td class="td_3"><input type="text" name="major" value="电子商务" /><span></span></td>
+   </tr>
+   <tr><td class="space">班 级</td><td>：</td>
+       <td class="td_3"><input type="text" name="className" value="0361102" /><span></span></td>
+   </tr>
+   <tr><td class="space">电子邮件</td><td>：</td>
+       <td class="td_3"><input type="text" name="email" value="49659****@qq.com" /><span></span></td>
+   </tr>
+   <tr><td class="space">联系方式</td><td>：</td>
+       <td class="td_3"><input type="text" name="tel" value="1398*******"/><span></span></td>
+   </tr>
+   <tr><td class="space">密 码</td><td>：</td>
+       <td class="td_3"><input type="password" name="password" value="****************" /><span></span></td>
+   </tr>
+   <tr><td class="space">确认密码</td><td>：</td>
+       <td class="td_3"><input type="password" name="confirm"  /><span></span></td>
+   </tr>
+  </table>
+  <input type="checkbox" name="agree" checked="checked" />
+  <input type="button" value="确认修改" name="register" class="btn common_1 common_2 common_btn"/>
+</div>
+ <script language="javascript" src="../../js/jquery-1.9.1.min.js"></script>
+ <script language="javascript">$('input[name="agree"]').hide();</script> 
+ <script language="javascript" src="../../js/registerCheck.js"></script>
+</body>
+</html>

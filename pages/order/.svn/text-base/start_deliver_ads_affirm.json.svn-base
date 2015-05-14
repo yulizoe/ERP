@@ -1,0 +1,16 @@
+[{
+"id":"1324",       
+"marketName":"本地市场",
+"productName":"P1",  
+"money":1.4    
+},{
+"id":"1324",      
+"productName":"P3",
+"marketName":"本地市场",
+"money":1.4     
+},{
+"id":"1324",
+"marketName":"国际市场",
+"productName":"P2",    
+"money":1.4     
+}]

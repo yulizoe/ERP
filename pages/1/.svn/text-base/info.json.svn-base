@@ -1,0 +1,23 @@
+﻿[
+		  {
+			"username":"wangxinyu",
+			"realname":"王欣瑜",
+			"sex":"female",
+			"e-mail":"aaaa@qq.com",
+			"phonenumber":"15683691945"
+		  },
+			{
+			"username":"xuya",
+			"realname":"徐亚",
+			"sex":"female",
+			"e-mail":"bbbb@qq.com",
+			"phonenumber":"18888888888"
+		  },
+			{
+			"username":"hehaiyuan",
+			"realname":"何海源",
+			"sex":"male",
+			"e-mail":"cccc@qq.com",
+			"phonenumber":"18877777777"
+		  }
+]
